@@ -36,12 +36,12 @@ We assume that you have a `conda` installed.
 
  1. `conda create -n ray-core-tutorial python=3.8`
  2. `conda activate ray-core-tutorial`
- 3. `git clone git@github.com:dmatrix/ray-core-tutorial.git`
+ 3. `git clone https://github.com/stephanie-wang/ray-core-tutorial.git`
  4. `cd` to <cloned_dir>
  5. `python3 -m pip install -r requirements.txt`
  6. `python3 -m ipykernel install`
  7. `jupyter lab`
  
-Let's have fun with Ray @ PyCon US 2022!
+Let's have fun with Ray @ ODSC East 2022!
  
-Jules
+ Stephanie
