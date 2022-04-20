@@ -4,3 +4,4 @@ scikit-learn
 tune-sklearn
 xgboost-ray
 anyscale
+jupyterlab
