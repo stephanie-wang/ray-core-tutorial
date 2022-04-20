@@ -1,6 +1,6 @@
 # Introduction to Ray Ecosystem for Distributed Applications 
 
-Welcome to the tutorial at PyCon US 2022 in Salt Lake City
+Welcome to the Ray core tutorial at ODSC East 2022!
 
 <img src="images/ray-logo.png" height="50%" width="50%">
 
